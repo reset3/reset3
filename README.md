@@ -4,7 +4,7 @@
 ![Stats](https://nirzak-streak-stats.vercel.app/?user=reset3&theme=dark&hide_border=false)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reset3&layout=compact&theme=vision-friendly-dark) 
-<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=reset3&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-bg=true&column=4&margin-w=10&margin-h=15) -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=reset3&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-bg=true&column=4&margin-w=10&margin-h=15)
 ---
 [![Github](https://img.shields.io/badge/-@reset3-231210?style=flat&logo=GitHub&logoColor=white)](https://github.com/reset3)
 [![Email](https://img.shields.io/badge/Email-443399?style=flat&logo=protonmail&logoColor=white)](mailto:reset03@proton.me)

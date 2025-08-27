@@ -9,5 +9,5 @@
 [![Github](https://img.shields.io/badge/-@reset3-231210?style=flat&logo=GitHub&logoColor=white)](https://github.com/reset3)
 [![Email](https://img.shields.io/badge/Email-443399?style=flat&logo=protonmail&logoColor=white)](mailto:reset03@proton.me)
 [![Signal](https://img.shields.io/badge/Signal_l_Reset.03-2f5db7?style=flat&logo=signal&logoColor=white)](https://signal.me/#eu/Ebv-BFLrEQuVv0mscWlDkOYtSMptYZbeNWga-rltsCWLwLvKm1RO16XaQOvf514f)
-[![Website](https://img.shields.io/badge/Website-dd6622?style=flat&logo=cloudflare&logoColor=white)](https://reset3.pages.dev)
+[![Website](https://img.shields.io/badge/Website-dd6622?style=flat&logo=cloudflare&logoColor=white)](https://dev.reset3.pages.dev)
 <!--[![Visits](https://badges.pufler.dev/visits/reset3/reset3?&color=00bbbb)](https://github.com/reset3) -->

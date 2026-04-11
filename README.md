@@ -1,8 +1,8 @@
 # 💻 Technologies:
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=flat&logo=.NET#&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ##
-![](https://raw.githubusercontent.com/reset3/reset3/master/stats/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/reset3/reset3/master/stats/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/reset3/reset3/master/stats/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/reset3/reset3/master/stats/generated/languages.svg#gh-light-mode-only)
 <!--![](https://raw.githubusercontent.com/reset3/reset3/master/stats/overview.svg#gh-dark-mode-only)-->
 <!--![](https://raw.githubusercontent.com/reset3/reset3/master/stats/overview.svg#gh-light-mode-only)-->
 

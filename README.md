@@ -3,11 +3,6 @@
 <h3 align="center">
   Full-stack .NET developer building desktop, mobile, and web applications.
 </h3>
-<p align="right">
-  <a href="https://reset3.pages.dev/">🌐</a> <https://reset3.pages.dev>
-  •
-  📫 <a href="mailto:reset03@proton.me">Email</a>
-</p>
 
 ---
 

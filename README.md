@@ -9,7 +9,7 @@
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git,bash,postman&theme=dark" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git,bash&theme=dark" alt="Languages and Tools" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50" />
 </p>
